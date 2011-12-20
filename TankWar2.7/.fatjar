@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jul 29 15:47:25 EDT 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=TankWar2.7_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.stevens.tankWar.TankClient
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
